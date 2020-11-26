@@ -1,3 +1,4 @@
 Changed!
 Changed line! 
-Add new line! 
+Add new line!
+Line 1,2,3,4,5,6,7 
